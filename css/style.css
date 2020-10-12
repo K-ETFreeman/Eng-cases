@@ -1140,6 +1140,7 @@ main section:nth-child(2n+2) {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100%;
+  width: 100%;
   padding: 3% 4%;
 }
 
